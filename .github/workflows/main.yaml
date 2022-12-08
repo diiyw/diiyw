@@ -10,7 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: diiyw/diiyw@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -19,7 +19,7 @@ jobs:
           user: shirou
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Tokyo
+          config_timezone: Asia/Shanghai
           plugin_followup: yes
           plugin_followup_sections: repositories
           repositories: 1000
