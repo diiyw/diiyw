@@ -14,6 +14,6 @@ I am a contributor to
 ## Stats
 ![Metrics](https://github.com/diiyw/diiyw/blob/main/github-metrics.svg)
 
-![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=diiyw&hide_border=true)
+![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=diiyw&theme=tokyonight&hide_border=true)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=diiyw&show_icons=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=diiyw&theme=tokyonight&show_icons=true&hide_border=true)
