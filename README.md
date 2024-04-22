@@ -12,8 +12,6 @@ I am a contributor to
 - [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)
 
 ## Stats
-![Metrics](https://github.com/diiyw/diiyw/blob/main/github-metrics.svg)
-
 ![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=diiyw&theme=tokyonight&hide_border=true)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=diiyw&theme=tokyonight&show_icons=true&hide_border=true)
