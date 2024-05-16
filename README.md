@@ -1,10 +1,8 @@
 
 I am the author of
 
-- [nodis](https://github.com/diiyw/nodis) - A Golang implemented Redis data structure. It is a simple and easy to embed in your application.
+- [nodis](https://github.com/diiyw/nodis) - Redis re-implemented using pure golang
 - [h2md](https://github.com/diiyw/h2md) - A tool to help you translate html 2 markdown. 几乎完美的将html转换成markdown格式的小工具,支持表格、代码块的转换
-- [mep](https://github.com/diiyw/mep) - A simple socks4/socks5 proxy by golang
-- [esayd](https://github.com/diiyw/easyd) - simple webhook deploy
 
 I am a contributor to
 
